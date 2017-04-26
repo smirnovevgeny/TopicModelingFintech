@@ -1,8 +1,9 @@
 # TopicModelingFintech
 
-## Позже появятся ссылки на данные для домашнего задания
-
 # Домашнее задание
+
+**[Данные для домашнего задания](https://drive.google.com/drive/folders/0Bz0RHGVhNzUHd0U0X28ycElPNjg)**
+
 
 ## Обязательная часть
 
