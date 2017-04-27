@@ -9,7 +9,7 @@
 ## Обязательная часть
 
 1. [Загрузить метаданные о банках](http://www.banki.ru/services/responses/) (Банк, Рейтинг, Средняя оценка, Зачтено отзывов, Решено проблем, Ответов банка)
-2. [Выбрать банк](https://docs.google.com/spreadsheets/d/1g1cmBCmN4fWVHV4AR8xLk_N8InZGeFJyFuxK7tUHvx8/edit?usp=sharing). Нельзя выбирать уже кем-то выбранный банк. Нельзя выбирать Тинькофф банк.
+2. [Выбрать банк](https://docs.google.com/spreadsheets/d/1g1cmBCmN4fWVHV4AR8xLk_N8InZGeFJyFuxK7tUHvx8/edit?usp=sharing). Нельзя выбирать уже кем-то ранее выбранный банк. Нельзя выбирать Тинькофф банк.
 3. Провести визуализацию данных.
 4. Подготовить vw - файлы
 5. Построить ТМ с тональными темами.
